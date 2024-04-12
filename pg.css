@@ -75,6 +75,12 @@ a{
     font-weight: 200%;
     
 }
+.produtosinicio{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
 .produtos{
     
     display: flex;
