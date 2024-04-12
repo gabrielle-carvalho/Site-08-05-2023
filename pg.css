@@ -79,15 +79,26 @@ a{
     padding-left: 95px;
     padding-top: -15px;
     margin-left: 10px;
-    justify-content: space-evenly;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    
     
 }
 
 .produto{
-    padding-left: 15%;
+    padding-left: 95px;
     padding-top: -15px;
-    margin-left: 10%;
-    justify-content: space-evenly;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+    flex-direction: row;
+    align-items: center;
     
 }
 
